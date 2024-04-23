@@ -1,1 +1,2 @@
-mencari akar dengan banyak metode
+Dengan menggunakan metode ini , kita dapat mencari beberapa akar dengan memasukin berbagai fungsi dan x nya.
+menggunakan mathlab R2023a
